@@ -1,0 +1,5 @@
+type,ip,user,time,details
+BRUTE_FORCE,203.0.113.50,-,Nov 4 03:00:02,"14 failed logins, usernames tried: 5"
+BRUTE_FORCE,203.0.113.77,-,Nov 5 14:05:03,"7 failed logins, usernames tried: 1"
+SUCCESS_AFTER_FAILURES,203.0.113.77,carol,Nov 5 14:05:25,login succeeded after 7 failed attempts
+ODD_HOUR_LOGIN,198.51.100.11,bob,Nov 5 02:47:00,successful login at 02:47:00
